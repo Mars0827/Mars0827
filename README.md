@@ -1,6 +1,6 @@
 # 👨‍💻 Mars L. Benitez
 
-<div align="center">
+<div align="left">
   <a href="mailto:marsbenitez0827@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-marsbenitez0827%40gmail.com-red?style=flat-square&logo=gmail" alt="Gmail" />
   </a>
@@ -41,7 +41,7 @@ I'm a passionate Software Engineer and Computer Science student at Cebu Institut
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042)" height="40" alt="tailwindcss logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
