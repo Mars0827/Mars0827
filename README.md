@@ -64,9 +64,6 @@ I'm a passionate Software Engineer and Computer Science student at Cebu Institut
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mars0827&show_icons=true&count_private=true&hide=issues&theme=tokyonight" alt="Mars's GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars0827&layout=compact&theme=tokyonight" alt="Mars's Top Languages" />
 </div>
 
